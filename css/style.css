@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    display: flex;
+  
+    align-items: center;
+    
+    }
+    .squareContainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .square{
+        background-color: blue;
+        width: 90px;
+        height: 90px;
+        /* animation-name:  Puff, Hop, Voila, Fine;
+        animation-duration: 4s; */
+     
+    }
+    
+    .square2{
+        background-color: purple;
+        width: 90px;
+        height: 90px;
+        /* animation-name:  Puff, Hop, Voila, Fine;
+        animation-duration: 4s; */
+     
+    }
